@@ -1,0 +1,2 @@
+Üdvözlöm!
+Tanulom a kódolást. :)
